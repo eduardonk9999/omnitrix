@@ -8,6 +8,6 @@ public class Omnitrix {
 
     String nomeProprietario = "Ben Tennyson";
 
-    final int MAX_TEMPO_TRANSFORMACAO = 600; //segundos
+    final int MAX_TEMPO_TRANSFORMACAO = 600; //segundos˜
 
 }
